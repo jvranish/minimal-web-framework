@@ -18,7 +18,8 @@ This was made for people (really, this was just made for me) who miss the good o
 
 ## Running it:
 
-My favorite simple webserver (which is what I would recommend for checking out this example) is the built-in python simple webserver. (Though any webserver will do)
+My favorite simple webserver (which is what I would recommend for checking out this example) is the built-in python simple webserver (Though any webserver will do). You can also check it out via the github pages [for this repo](https://jvranish.github.io/minimal-web-framework/)
+
 
 ### For python 3:
 
